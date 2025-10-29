@@ -1,0 +1,5 @@
+bin/
+obj/
+exports/
+packagemod.bat
+ModConfigApi.cs
